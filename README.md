@@ -9,4 +9,8 @@ A chatbot is merely a computer program that fundamentally simulates human conver
 ![Screenshot (124)](https://user-images.githubusercontent.com/94080969/141213215-22b42e5e-e326-4903-aa01-9a3722f3b2ac.png)
 
 
-### this is an update
+### conclusion w 
+in this project we createed a chatbot using DiANDalogflow , in dialogflow firstely we have to create a "AGENT" .
+Then we created a  training phrases in "INTENT" And for that the responces also given in " TEXT , JPG ,URL " format .
+Then we integrated dialogflow with "TELEGRAM" To integrate a bot .
+In the telegram we tested the bot by giving some responces . 
