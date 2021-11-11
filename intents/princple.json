@@ -1,0 +1,74 @@
+{
+  "id": "f9cc5b99-c80e-4828-97ea-c150b256d4eb",
+  "name": "princple",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "for kiet"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://scontent.fvga2-2.fna.fbcdn.net/v/t1.6435-9/s600x600/38208523_2134881893251634_4824030193679073280_n.jpg?_nc_cat\u003d104\u0026ccb\u003d1-5\u0026_nc_sid\u003d09cbfe\u0026_nc_ohc\u003dwGDwgS_vVI8AX9OnIIQ\u0026_nc_ht\u003dscontent.fvga2-2.fna\u0026oh\u003d628e68ea1531aa4d0269bddeb36a362a\u0026oe\u003d61B0D477",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "for kiew"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

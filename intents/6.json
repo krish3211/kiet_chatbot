@@ -1,0 +1,82 @@
+{
+  "id": "ccc53df2-43dc-4985-ba4a-e90a4ee57809",
+  "name": "6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "url": "http://kietgroup.com/facilities/hostel/",
+                      "text": "Hostel"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Library",
+                      "url": "http://kietgroup.com/facilities/library/"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "IT Infra",
+                      "url": "http://kietgroup.com/facilities/it-infra/"
+                    }
+                  ],
+                  [
+                    {
+                      "url": "http://kietgroup.com/facilities/transport/",
+                      "text": "Transport"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "NCC \u0026 NSS",
+                      "url": "http://kietgroup.com/facilities/nss/"
+                    }
+                  ]
+                ]
+              },
+              "text": "These are the facilities of KIET"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
