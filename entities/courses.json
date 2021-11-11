@@ -1,0 +1,9 @@
+{
+  "id": "48b7ddb1-9acc-4b15-a348-dfce9ae32fbc",
+  "name": "courses",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
