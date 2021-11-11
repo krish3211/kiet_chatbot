@@ -1,9 +1,0 @@
-{
-  "id": "57e89b35-c58a-475a-bd57-a18742ad6515",
-  "name": "groups",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": true,
-  "allowFuzzyExtraction": false
-}
